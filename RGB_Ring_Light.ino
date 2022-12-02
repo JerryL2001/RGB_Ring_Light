@@ -137,13 +137,13 @@ void analyse()  //analyze the data entered
       if(i==1)
       {
         FastLED.setBrightness(BRIGHTNESS);      //set brightness
-        CRGB myRGBcolor(250,218,141);           //rgb data of white
+        CRGB myRGBcolor(250,218,141);           //rgb data of white, this should be determined after actually testing the leds you bought
         fill_solid(leds, NUM_LEDS, myRGBcolor);
       }
       if(i==2)
       {
         FastLED.setBrightness(BRIGHTNESS);
-        CRGB myRGBcolor(201,116,28);           //rgb data of light yellow
+        CRGB myRGBcolor(201,116,28);           //rgb data of light yellow, this should be determined after actually testing the leds you bought
         fill_solid(leds, NUM_LEDS, myRGBcolor);
       }
       if(i==3)
