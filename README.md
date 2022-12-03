@@ -80,10 +80,11 @@ Demo video on: https://youtu.be/I4JFI7Y2HLA
 
 ##### *Red arrow points to the name of the data transferred to the developer board, blue arrow points to the name of the slider shown on your mobile phone interface, orange arrow points to the minimum value of the slider, green arrow points to the maximum value of the slider(change it to 255 in this project)
 
+### 3. Add all the bottons and sliders needed on your mobile phone interface
 
-### 3. Connect the ESP8266 development board to the computer ~ install the serial chip driver ~ open "RGB_Ring_Light.ino" with Arduino IDE ~ enter the key you got, your wifi name and password to the program ~ compile and upload the program to the development board
+### 4. Connect the ESP8266 development board to the computer ~ install the serial chip driver ~ open "RGB_Ring_Light.ino" with Arduino IDE ~ enter the key you got, your wifi name and password to the program ~ compile and upload the program to the development board
 
-
+### 5. ENIOY YOUR RGB RING LIGHT!
 
 
 
