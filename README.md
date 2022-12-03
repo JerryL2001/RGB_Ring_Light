@@ -35,7 +35,18 @@ Demo video on: https://youtu.be/I4JFI7Y2HLA
 </div>
 
 # Software Part
-1. Connect
-2.Download Blinker app from: https://diandeng.tech/home
+1. Connect the ESP8266 development board to the computer ~ install the serial chip driver ~ open "RGB_Ring_Light.ino" with Arduino IDE ~ enter the key you got, your wifi name and password to the program ~ compile and upload the program to the development board
 
-3.Follow the steps below to register and apply for a new device:
+2. Download Blinker app from: https://diandeng.tech/home to your mobile phone
+
+3. Follow the steps below to register and apply for a new device:
+
+<img width="505" src="https://user-images.githubusercontent.com/119554730/205445740-f1ca9340-d8d8-4fd3-9866-fd5b4bbeef08.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205445870-48a778c1-3dc3-4945-96ee-72727694e5d4.jpg">
+<img width="505" src="https://user-images.githubusercontent.com/119554730/205446058-7323fb6c-3c5d-4794-ad08-1092a6a5a8e8.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205446088-6c74bd00-861e-49ef-83b1-398d5bc389b2.jpg">
+<img width="505" src="https://user-images.githubusercontent.com/119554730/205446136-bf651711-3eeb-4c24-937f-208c0c5799e6.jpg"> 
+
+
+
+
+
+
