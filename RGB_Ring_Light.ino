@@ -3,7 +3,7 @@
 #include "Blinker.h"
 #include "FastLED.h"
 
-#define DATA_PIN    4        //where the data pin of the ws2812b is connected to
+#define DATA_PIN    D4        //where the data pin of the ws2812b is connected to
 #define LED_TYPE    WS2812B  //you can find all supported led chipsets at: https://github.com/FastLED/FastLED/blob/master/README.md
 #define COLOR_ORDER GRB
 #define NUM_LEDS    23       //the actual number of led lamp beads
