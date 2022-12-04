@@ -80,6 +80,5 @@ Demo video on: https://youtu.be/I4JFI7Y2HLA
 
 ### 5. ENIOY YOUR RGB RING LIGHT!
 
-<div align=center>
-<img width="1010" src="https://user-images.githubusercontent.com/119554730/205491446-14de312a-8668-4b1d-81df-3d9f17343998.jpg">
-</div>
+<img width="500" src="https://user-images.githubusercontent.com/119554730/205491446-14de312a-8668-4b1d-81df-3d9f17343998.jpg">
+
