@@ -52,31 +52,25 @@ Demo video on: https://youtu.be/I4JFI7Y2HLA
 
 ### 2. Follow the steps below to register and apply for a new device:
 
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205445740-f1ca9340-d8d8-4fd3-9866-fd5b4bbeef08.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205445870-48a778c1-3dc3-4945-96ee-72727694e5d4.jpg">
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205446058-7323fb6c-3c5d-4794-ad08-1092a6a5a8e8.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205446088-6c74bd00-861e-49ef-83b1-398d5bc389b2.jpg">
-<div align=center>
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205447072-a0355ae6-b5fe-4a50-8958-06ef7a6f6e35.jpg"> 
-</div>
-<div align=center>
-    
-##### *Go back to the main interface
-    
-</div>
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205445740-f1ca9340-d8d8-4fd3-9866-fd5b4bbeef08.jpg"><img width="405" src="https://user-images.githubusercontent.com/119554730/205445870-48a778c1-3dc3-4945-96ee-72727694e5d4.jpg">
 
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205447454-6ece1bec-7d6c-4926-9583-fe8c895f9b5c.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205447471-a03c32ec-9b42-4053-a64d-48d62963745c.jpg">
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205447509-d197b53c-d0d2-47b7-8945-958cfd059e5a.jpg"><img width="505" src="https://user-images.githubusercontent.com/119554730/205447648-8c0292e8-1170-4546-a0be-74f1ee817dfc.jpg">
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205446058-7323fb6c-3c5d-4794-ad08-1092a6a5a8e8.jpg"><img width="405" src="https://user-images.githubusercontent.com/119554730/205446088-6c74bd00-861e-49ef-83b1-398d5bc389b2.jpg">
+
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205447072-a0355ae6-b5fe-4a50-8958-06ef7a6f6e35.jpg"> 
+
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205447454-6ece1bec-7d6c-4926-9583-fe8c895f9b5c.jpg"><img width="405" src="https://user-images.githubusercontent.com/119554730/205447471-a03c32ec-9b42-4053-a64d-48d62963745c.jpg">
+
+##### *Go back to the main interface
+
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205447509-d197b53c-d0d2-47b7-8945-958cfd059e5a.jpg"><img width="405" src="https://user-images.githubusercontent.com/119554730/205447648-8c0292e8-1170-4546-a0be-74f1ee817dfc.jpg">
 
 ##### *Red arrow points to add a button, blue arrow points to add a slider
 
-<div align=center>
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205447680-8a51df7e-a78f-403b-8ce3-5778b6bf5023.jpg">
-</div>
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205447680-8a51df7e-a78f-403b-8ce3-5778b6bf5023.jpg">
 
 ##### *Red arrow points to the name of the data transferred to the developer board, sky blue arrow points to the name of the button shown on your mobile phone interface
 
-<div align=center>
-<img width="505" src="https://user-images.githubusercontent.com/119554730/205448080-8cd74f03-b4be-4613-bd3e-00eaa7e87909.jpg">
-</div>
+<img width="405" src="https://user-images.githubusercontent.com/119554730/205448080-8cd74f03-b4be-4613-bd3e-00eaa7e87909.jpg">
 
 ##### *Red arrow points to the name of the data transferred to the developer board, blue arrow points to the name of the slider shown on your mobile phone interface, orange arrow points to the minimum value of the slider, green arrow points to the maximum value of the slider(change it to 255 in this project)
 
