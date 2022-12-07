@@ -80,7 +80,7 @@ Demo video on: https://youtu.be/I4JFI7Y2HLA
 
 <img width="600" src="https://user-images.githubusercontent.com/119554730/205448080-8cd74f03-b4be-4613-bd3e-00eaa7e87909.jpg">
 
-##### ↑ Red arrow points to the name of the data set in the program, blue arrow points to the name of the slider shown on your mobile phone interface, orange arrow points to the minimum value of the slider, green arrow points to the maximum value of the slider(change it to 255 in this project)
+##### ↑ Red arrow points to the name of the slider set in the program, blue arrow points to the name of the slider shown on your mobile phone interface, orange arrow points to the minimum value of the slider, green arrow points to the maximum value of the slider(change it to 255 in this project)
 
 ### 3. Add all the bottons and sliders needed on your mobile phone interface (Their names should match the ones set in the program)
 
